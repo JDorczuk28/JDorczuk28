@@ -1,10 +1,13 @@
 ## Hi, Im Jack
 
-Computer science student with an emphasis in Information Security, focused on expanding my skill set and knowledge!
+Computer science student with an emphasis in Information Security, focused on building my skills and knowledge through projects and experimentation. Passionate about learning and pursuing cybersecurity and information assurance; a little bit about what I'm currently working on:
 
-- Working on experimenting with LLM vulnerabilities to understand threats in an AI-driven world.
-- Tinkering with homelab-related projects to expand knowledge of networks, security, and monitoring.
-- 
+- Experimenting with [LLM vulnerabilities](https://github.com/JDorczuk28/OWASP-Top-10-LLM) to understand threats in an AI-driven world.
+- Tinkering with [homelab](https://github.com/JDorczuk28/Laptop-Homelab)-related projects to expand knowledge of networks, security, and monitoring.
+- Investigating malware through static and dynamic analysis to learn how malicious actors target specific systems and evade detection.
+
+
+**Tools:** Python · Linux · Wireshark · Nmap · Docker · C · C++ · Java · Kotlin · MetaSploit · Splunk · Sysmon · Autopsy
 
 <!--
 **JDorczuk28/JDorczuk28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
