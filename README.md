@@ -6,6 +6,8 @@ Computer science student with an emphasis in Information Security, focused on bu
 - Tinkering with [homelab](https://github.com/JDorczuk28/Laptop-Homelab)-related projects to expand knowledge of networks, security, and monitoring.
 - Investigating malware through static and dynamic analysis to learn how malicious actors target specific systems and evade detection.
 
+To get in touch with me, please message me on [linkedin](www.linkedin.com/in/jackdorczuk)
+
 
 **Tools:** Python · Linux · Wireshark · Nmap · Docker · C · C++ · Java · Kotlin · MetaSploit · Splunk · Sysmon · Autopsy
 
