@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, Im Jack
+
+Computer science student with an emphasis in Information Security, focused on expanding my skill set and knowledge!
+
+- Working on experimenting with LLM vulnerabilities to understand threats in an AI-driven world.
+- Tinkering with homelab-related projects to expand knowledge of networks, security, and monitoring.
+- 
 
 <!--
 **JDorczuk28/JDorczuk28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
